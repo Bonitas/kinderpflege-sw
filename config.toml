@@ -1,5 +1,5 @@
 title = "Was uns bewegt"
-baseURL = "https://example.com"
+baseURL = "https://kinderpflege-sw.netlify.app"
 languageCode = "de"
 theme = "gohugo-theme-ananke"
 
