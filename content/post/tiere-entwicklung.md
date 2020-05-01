@@ -1,7 +1,7 @@
 ---
 date: 2020-05-01T10:58:08-04:00
 description: "Hier wird erklärt was für positive Aspekte es hat, ein Haustier zu besitzen. Welche Vorteile hat das Kind vom eigenen Haustier. Von Magnus Heid"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+featured_image: "/images/dog.jpg"
 tags: []
 title: "Tiere in der Entwicklung von Kindern "
 ---
