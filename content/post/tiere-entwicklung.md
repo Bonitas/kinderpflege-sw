@@ -1,10 +1,11 @@
 ---
-date: 2017-04-09T10:58:08-04:00
-description: "The Grand Hall"
+date: 2020-05-01T10:58:08-04:00
+description: "Hier wird erklärt was für positive aspekte es hat, ein Haustier zu besitzen. Welche Vorteile hat das Kind vom eigenen Haustier"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["scene"]
-title: "Chapter I: The Grand Hall"
+
+title: "Chapter I: "Wie gut helfen Tiere in der Entwicklung von Kidern"
 ---
+
 Tiere in der Entwicklung von Kindern 
 Vorüberlegung und Anschaffung 
 Im Vorfeld muss die Anschaffung eines Haustieres gut und ausführlich überlegt und mit den Kindern besprochen werden.
