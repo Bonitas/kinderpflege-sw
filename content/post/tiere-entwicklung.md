@@ -3,13 +3,13 @@ date: 2020-05-01T10:58:08-04:00
 description: "Hier wird erklärt was für positive Aspekte es hat, ein Haustier zu besitzen. Welche Vorteile hat das Kind vom eigenen Haustier Von Magnus Heid"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 
-title:"Wie gut helfen Tiere in der Entwicklung von Kindern"
+title: "Wie gut helfen Tiere in der Entwicklung von Kindern"
 ---
 
 Tiere in der Entwicklung von Kindern 
 Vorüberlegung und Anschaffung 
 Im Vorfeld muss die Anschaffung eines Haustieres gut und ausführlich überlegt und mit den Kindern besprochen werden.
-Wichtig ist bzw. klar zu stellen ist hierbei, dass ein Haustier nicht nur zum kuscheln und spielen da ist. Die Kinder müssen sich darüber bewusst sein, dass ein Haustier auch Arbeit macht! (beim Hund z.b. Gassi gehen, bei fischen das regelmäßige säubern des Aquariums) wer mag kann auch mit seinen Kindern einen „Vertrag“ schreiben oder eine Liste mit verschiedenen „Regeln“ oder Aufgaben und Pflichten erstellen. 
+Wichtig ist bzw. klar zu stellen ist hierbei, dass ein Haustier nicht nur zum kuscheln und spielen da ist. Die Kinder müssen sich darüber bewusst sein, dass ein Haustier auch Arbeit macht! (beim Hund z.b. Gassi gehen, bei Fischen das regelmäßige säubern des Aquariums) wer mag kann auch mit seinen Kindern einen „Vertrag“ schreiben oder eine Liste mit verschiedenen „Regeln“ oder Aufgaben und Pflichten erstellen. 
 Ganz wichtig ein Kauf zu einem Haustier sollte nicht aus einer Laune heraus entstehen man sollte am besten beobachten wie lange sich das Kind das Haustier wünscht. Wünscht es sich nächste Woche dann ein Fahrrad sollte man einen kauf besser umgehen. Behält jedoch ein Kind seinen Wunsch über ein Haustier z.b. über ein halbes bis ein dreiviertel Jahr kann man mit seinem Kind darüber sprechen.
 
 Beeinflussung der Haustiere auf die Kinder 
