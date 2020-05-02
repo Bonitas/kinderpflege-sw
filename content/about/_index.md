@@ -1,8 +1,8 @@
 ---
 title: "Über uns"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: ""
 featured_image: '/images/about.jpg'
 ---
-{{< figure src="/images/about.jpg" title="Hier könnte ein Bild eurer klasse sein" >}}
 
-Hier würde die Beschreibung stehen
+Wir sind Schülerinnen und Schüler der 10. Jahrgangsstufe im Berufsfeld der Kinderpflege. 
+Mit unseren regelmäßigen Berichten wollen wir Ihnen einen Einblick in unsere abenteuerliche Ausbildung geben. Außerdem gibt es für Eltern Tipps und Tricks rund um die Erziehung. Wir würden uns freuen, wenn wir Ihnen auch ein wenig Ihren Tag verschönern mit verschiedenen Rezepten und Spielen, die Sie mit ihrem Kind ausprobieren können.
