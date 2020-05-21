@@ -2,7 +2,7 @@
 title: "Nichts hält ewig"
 date: 2020-05-21T21:00:25+02:00
 description: "Joshua setzt sich in diesem Bericht mit dem Thema \"loslassen\" auseinander."
-featured_image: "/images/loslassen.jpg"
+featured_image: "/images/loslassen-min.jpg"
 tags: []
 ---
 
